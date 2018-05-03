@@ -28,3 +28,13 @@ This is a brief picture for the whole project, and if you have any idea, we coul
 About the meeting:
 
 We decided to have 2 meetings every week at the beginning.
+
+**2018.05.02 22:00** Second Meeting
+
+We come to an agreement on the schedule:
+
+Evaluation 1: Refactor and Improve test
+Evaluation 2: Release GA
+Evaluation 3: Performance improvement
+
+And we decided to use Trello to manage the progress: [coala Language Server in Trello](https://trello.com/b/yHuWxRlu/coala-language-server)
