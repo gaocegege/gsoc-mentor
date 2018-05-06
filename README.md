@@ -46,3 +46,9 @@ We come to an agreement on the schedule:
 - Evaluation 3: Performance improvement
 
 And we decided to use Trello to manage the progress: [coala Language Server in Trello](https://trello.com/b/yHuWxRlu/coala-language-server)
+
+**2018.05.06 22:00** Third Meeting
+
+We decided the schedule and I reminded ksdme to finish the newcomer process.
+
+**2018.05.10 22:00** Fourth Meeting
