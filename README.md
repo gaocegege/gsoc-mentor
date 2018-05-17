@@ -51,4 +51,10 @@ And we decided to use Trello to manage the progress: [coala Language Server in T
 
 We decided the schedule and I reminded ksdme to finish the newcomer process.
 
-**2018.05.10 22:00** Fourth Meeting
+**2018.05.10 10:00** Fourth Meeting
+
+About the cEP
+
+**2018.05.17 20:30**
+
+Come to an agreement to get the Arch doc inside the LS.
